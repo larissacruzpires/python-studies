@@ -1,7 +1,7 @@
 nome = "Larissa"
 idade = 20
 
-# ou podemos codificar desta maneira também:
+# podemos codificar desta maneira também:
 
 nome, idade = "Larissa", 20
 
